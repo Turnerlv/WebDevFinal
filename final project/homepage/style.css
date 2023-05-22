@@ -735,7 +735,11 @@ fieldset p{
     .bottom-navigation-content:last-child{
         flex:100%;
     }
-
+}
+@media (max-width:768px){
+    .bottom-navigation-content form{
+        width:100%;
+    }
 }
 
 /********  Footer  *********/
