@@ -298,6 +298,7 @@ p{
     @media (max-width:768px){
     .hero-left{
         min-width: 50%;
+        width: 100%;
     }
     .hero-header{
         font-size: 2rem;
