@@ -291,14 +291,15 @@ p{
     }
     .hero-right{
         height:auto;
-        width: 70%;
-        padding-bottom: 4rem;    
+        width: 100%;
+        padding: 0 4rem 4rem 4rem;    
     }
  }   
     @media (max-width:768px){
     .hero-left{
         min-width: 50%;
         width: 100%;
+        padding: 4rem;
     }
     .hero-header{
         font-size: 2rem;
